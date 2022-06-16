@@ -1,0 +1,24 @@
+{
+  "name": "pokemon-battles",
+  "version": "0.0.1",
+  "description": "Um bot que traz o mundo de pokémon para o discord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Pokemon-battles-bot"
+  },
+  "author": "allangamesxd",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.5.3",
+    "discord.js": "^13.8.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^4.7.0",
+    "npm": "^8.12.1",
+    "postgres": "^3.2.4",
+    "quick.db": "^9.0.2"
+  }
+}
