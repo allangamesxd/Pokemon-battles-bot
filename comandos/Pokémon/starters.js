@@ -1,7 +1,7 @@
 const { Client, Message, MessageEmbed } = require("discord.js");
 const { QuickDB } = require("quick.db");
 const db = new QuickDB();
-
+// o comando está sendo feito.
 module.exports = {
     name: "starters",
     aliases: ["iniciais"],
